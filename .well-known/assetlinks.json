@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mytodo.twa",
+    "sha256_cert_fingerprints": [
+      "43:22:D8:10:93:8D:20:C8:14:E5:BF:5F:24:65:D4:15:5C:F5:6C:95:D4:10:4C:30:41:C9:A1:55:8D:AD:32:C8"
+    ]
+  }
+}]
